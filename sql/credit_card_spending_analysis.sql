@@ -1,3 +1,5 @@
+--SQL porfolio project.
+
 /*download credit card transactions dataset from below link :
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 import the dataset in sql server with table name : credit_card_transcations
@@ -155,3 +157,8 @@ from cct  ) a
 where rnk = 500   
 
 order by date_diff_trans  
+
+
+once you are done with this create a github repo to put that link in your resume. Some example github links:
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/tree/master/Advanced%20SQL%20for%20Application%20Development
+https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql
