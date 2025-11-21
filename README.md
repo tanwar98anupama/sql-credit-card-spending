@@ -8,14 +8,11 @@ It demonstrates my ability to write **clean, production-style SQL** using:
 - Date functions and aggregations
 - Business-focused analysis (city, card type, spend patterns)
 
-## Tableau Dashboard
+---
 
-Interactive version on Tableau Public:  
-👉 [View the live dashboard](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)
+## Schema
 
-Below is a static preview (click to open the live version):
-
-[![Dashboard Overview](images/dashboard_overview.png)](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)
+![cct schema](images/cct_schema.png)
 
 ---
 
