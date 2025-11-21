@@ -72,8 +72,8 @@ Below is a static preview (click to open the live version):
   - **Silver / Gold** cards show peak usage in **January**, aligned with everyday spending patterns.
 
 - **Growth milestones:**  
-  - **Gold-Card Type** reached ₹1,000,000 cumulative spend the fastest, suggesting a more engaged or affluent customer base.  
-  - **Platinum-Card Type** lagged behind, which might indicate room for targeted campaigns.
+  - **Gold-Card** reached ₹1,000,000 cumulative spend the fastest, suggesting a more engaged or affluent customer base.  
+  - **Platinum-Card** lagged behind, which might indicate room for targeted campaigns.
 
 - **Gold card underpenetrated cities:**  
   - **City Ahmedabad** has the **lowest contribution to global Gold card spend**, making it a candidate for **Gold-specific promotions** or **upgrade offers**.
@@ -86,7 +86,7 @@ Below is a static preview (click to open the live version):
   - Some categories show much lower female contribution, indicating potential for targeted offers.
 
 - **MoM growth hot-spot:**  
-  - The **card_type-gold + expense_type- travel** combo saw the **highest month-over-month growth in Jan 2014**, hinting at the success of a campaign or emerging category.
+  - The **gold card + Travel** combo saw the **highest month-over-month growth in Jan 2014**, hinting at the success of a campaign or emerging category.
 
 - **Weekend behavior:**  
   - On weekends, **Sonepur** shows the **highest average spend per transaction**, suggesting strong discretionary / leisure spending.
