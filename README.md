@@ -107,9 +107,27 @@ Below is a static preview (click to open the live version):
 
 ---
 
-## 6. Next Steps (Roadmap)
+## 6. Project Structure
 
-- Build a **Power BI / Tableau dashboard** on top of these queries.
+- `sql/credit_card_spending_analysis.sql` – main SQL script with all analysis queries.
+- `Credit Card Spending (Tableau).twbx` – Tableau packaged workbook containing all dashboards.
+- `images/dashboard_overview.png` – static preview of the main Tableau dashboard.
+- `sql/data/credit_card_transcations.csv` – table schema and column definitions for the `cct` table.
+
+---
+
+## 7. Tableau Dashboard
+
+Interactive version on Tableau Public:  
+👉 [View the live dashboard](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)
+
+Below is a static preview (click to open the live version):
+
+[![Dashboard Overview](images/dashboard_overview.png)](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)
+
+---
+
+## 8. Next Steps (Roadmap)
 - Add a **Jupyter Notebook** or **Python script** to reproduce key aggregations and charts.
 - Extend analysis to **customer segmentation** or **propensity modeling** (high-value segment, weekend shoppers, etc.).
 
