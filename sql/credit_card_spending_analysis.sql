@@ -1,15 +1,14 @@
 /* ===========================================================
-   Project: Credit Card Spending Analysis in India
-   Author : Your Name
-   DB     : sqlqueries_namastesql
-   Table  : cct (credit card transactions)
+   Project: Credit Card Spending Analysis
+   Author : Anupama Rathod
+   DB     : SQL Server
+   Table  : cct (credit card transactions)(see README for columns)
+
    =========================================================== */
 
 ---------------------------------------------------------------
 -- 0. Setup (database + table reference)
 ---------------------------------------------------------------
-
-use sqlqueries_namastesql;
 
 -- Main table: cct
 select * from cct;
@@ -176,3 +175,4 @@ from cct  ) a
 where rnk = 500   
 
 order by date_diff_trans  
+
