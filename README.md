@@ -15,7 +15,7 @@ Interactive version on Tableau Public:
 
 Below is a static preview (click to open the live version):
 
-[![Dashboard Overview](images/dashboard_overview.png)](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)]
+[![Dashboard Overview](images/dashboard_overview.png)](https://public.tableau.com/app/profile/anupama.v.rathod/viz/CreditCardSpendingSQLTableau/0OverviewLanding)
 
 ---
 
